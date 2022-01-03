@@ -3,14 +3,25 @@
 }
 
 .div {
+  font-size: large;
+  padding: 1px 10px;
   border : 1px solid black;
-  height: 300px;
-  width: 180px;
-  float: left;
-  background-color: green;
-  color: blue;
+  height: 350px;
+  width: 250px;
+  float: center;
+  background-color: white;
+  color: black;
   border-radius: 30px;
-  margin: 100px;
+  margin: 55px;
   border: 5px solid black;
   font-weight: bold;
+}
+
+.pages {
+  padding: 1em 1.5em;
+}
+
+.link {
+  text-transform: uppercase;
+  padding: 3em 1em;
 }
